@@ -6,6 +6,6 @@ class Ayush
 		int b=7;
 		int sum =a+b;
 		System.out.println("Sum of number are : "+sum);
-		
+		//ayush added new line
 	}
 }
