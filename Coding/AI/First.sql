@@ -1,1 +1,0 @@
-update ayush set name='Kumar' ;
