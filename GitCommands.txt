@@ -8,4 +8,5 @@ Scenario 1 # Having Repository in Github and wants to clone with Laptop local so
 Scenario 2 # In case you are making local folder and want to push to Hithub
 1. First make the loacl folder go to inside the folder from visual studio code terminal.
 2. git init
-3. 
+3. go to github and make new repository there and open in hithub for copying the https url
+4. 
